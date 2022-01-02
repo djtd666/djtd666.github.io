@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://djtd666.github.io</id>
-    <title>X Space</title>
-    <updated>2022-01-02T08:31:58.948Z</updated>
+    <title>J Space</title>
+    <updated>2022-01-02T08:32:36.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://djtd666.github.io"/>
     <link rel="self" href="https://djtd666.github.io/atom.xml"/>
     <subtitle>my own place</subtitle>
     <logo>https://djtd666.github.io/images/avatar.png</logo>
     <icon>https://djtd666.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, X Space</rights>
+    <rights>All rights reserved 2022, J Space</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://djtd666.github.io/post/hello-gridea/</id>
