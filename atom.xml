@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://djtd666.github.io</id>
     <title>J Space</title>
-    <updated>2022-01-02T09:40:54.166Z</updated>
+    <updated>2022-01-12T16:22:11.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://djtd666.github.io"/>
     <link rel="self" href="https://djtd666.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://djtd666.github.io/images/avatar.png</logo>
     <icon>https://djtd666.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, J Space</rights>
+    <entry>
+        <title type="html"><![CDATA[🐖🐖俏的2022年首条朋友圈]]></title>
+        <id>https://djtd666.github.io/post/qiao-de-2022-nian-shou-tiao-peng-you-quan/</id>
+        <link href="https://djtd666.github.io/post/qiao-de-2022-nian-shou-tiao-peng-you-quan/">
+        </link>
+        <updated>2022-01-12T16:16:39.000Z</updated>
+        <content type="html"><![CDATA[<p>#ending<br>
+挥挥小手我也回家啦～<br>
+这个学期有在好好生活却在懒惰学习<br>
+希望自己真的可以好好地努力一下下<br>
+最后感谢一心赶在期末的小尾巴来湛江找我玩耶<br>
+虽然没那么的美满但是好歹也是结束了呢<br>
+（有点模糊也要认真记录✅ ）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hey guys]]></title>
         <id>https://djtd666.github.io/post/hey-guys/</id>
