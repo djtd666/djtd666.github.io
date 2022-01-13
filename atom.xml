@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://djtd666.github.io</id>
     <title>J Space</title>
-    <updated>2022-01-12T16:43:08.817Z</updated>
+    <updated>2022-01-13T05:14:57.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://djtd666.github.io"/>
     <link rel="self" href="https://djtd666.github.io/atom.xml"/>
@@ -16,6 +16,15 @@
         <link href="https://djtd666.github.io/post/qiao-de-2022-nian-shou-tiao-peng-you-quan/">
         </link>
         <updated>2022-01-12T16:16:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>#ending<br>
+挥挥小手我也回家啦～<br>
+这个学期有在好好生活却在懒惰学习<br>
+希望自己真的可以好好地努力一下下<br>
+最后感谢一心赶在期末的小尾巴来湛江找我玩耶<br>
+虽然没那么的美满但是好歹也是结束了呢<br>
+（有点模糊也要认真记录✅ ）</p>
+<figure data-type="image" tabindex="1"><img src="https://djtd666.github.io/post-images/1642050752732.jpg" alt="" loading="lazy"></figure>
+]]></summary>
         <content type="html"><![CDATA[<p>#ending<br>
 挥挥小手我也回家啦～<br>
 这个学期有在好好生活却在懒惰学习<br>
@@ -23,6 +32,9 @@
 最后感谢一心赶在期末的小尾巴来湛江找我玩耶<br>
 虽然没那么的美满但是好歹也是结束了呢<br>
 （有点模糊也要认真记录✅ ）</p>
+<figure data-type="image" tabindex="1"><img src="https://djtd666.github.io/post-images/1642050752732.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+<figure data-type="image" tabindex="2"><img src="https://djtd666.github.io/post-images/1642050771633.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
